@@ -57,11 +57,3 @@ The game is designed to automatically restart after the game-over screen, so use
 
 ## **Issues & Contributions**
 If you encounter any issues or have ideas for improvements, feel free to open an issue or submit a pull request.
-
-## **License**
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Happy coding! 🎉
-
